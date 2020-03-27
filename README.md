@@ -6,9 +6,6 @@
     <a href="https://github.com/boringcodes/dotgithub/commits" aria-label="Commitizen Friendly">
       <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
     </a>
-    <a href="https://github.com/boringcodes/dotgithub" aria-label="Prettier Code Style">
-      <img src="https://img.shields.io/badge/code_style-prettier-brightgreen?style=flat-square">
-    </a>
     <a href="https://github.com/boringcodes/dotgithub/blob/master/LICENSE" aria-label="MIT License">
       <img src="https://img.shields.io/github/license/boringcodes/dotgithub?color=brightgreen&style=flat-square">
     </a>
