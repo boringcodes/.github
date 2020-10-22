@@ -1,0 +1,12 @@
+{
+  "name": "BoringCodes Build Source",
+  "description": "Build source using Yarn scripts",
+  "iconName": "boringcodes",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

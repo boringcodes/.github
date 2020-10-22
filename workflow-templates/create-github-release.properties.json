@@ -1,0 +1,12 @@
+{
+  "name": "BoringCodes Create GitHub Release",
+  "description": "Create GitHub release",
+  "iconName": "boringcodes",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

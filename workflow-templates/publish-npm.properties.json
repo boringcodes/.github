@@ -1,0 +1,12 @@
+{
+  "name": "BoringCodes Publish NPM",
+  "description": "Publish package to NPM using Yarn scripts",
+  "iconName": "boringcodes",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
