@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>dotgihub</h1>
+  <h1>.github</h1>
   <p>Boring GitHub Actions & Workflows</p>
 
   <div>
-    <a href="https://github.com/boringcodes/dotgithub/commits" aria-label="Commitizen Friendly">
+    <a href="https://github.com/boringcodes/.github/commits" aria-label="Commitizen Friendly">
       <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
     </a>
-    <a href="https://github.com/boringcodes/dotgithub/blob/master/LICENSE" aria-label="MIT License">
-      <img src="https://img.shields.io/github/license/boringcodes/dotgithub?color=brightgreen&style=flat-square">
+    <a href="https://github.com/boringcodes/.github/blob/master/LICENSE" aria-label="MIT License">
+      <img src="https://img.shields.io/github/license/boringcodes/.github?color=brightgreen&style=flat-square">
     </a>
     <a href="https://github.com/boringcodes" aria-label="BoringCodes Verified">
       <img src="https://img.shields.io/badge/boringcodes-verified-brightgreen?style=flat-square">
@@ -27,4 +27,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/boringcodes/dotgithub/blob/master/LICENSE)
+[MIT](https://github.com/boringcodes/.github/blob/master/LICENSE)
