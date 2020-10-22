@@ -5,17 +5,11 @@ on: [push]
 jobs:
   lint-source:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [12]
+    container:
+      image: node:12-alpine
     steps:
       - name: Checkout source
         uses: actions/checkout@v2
-      - name: Setup Node.js ${{matrix.node-version}}
-        uses: actions/setup-node@v1
-        with:
-          node-version: ${{matrix.node-version}}
-          registry-url: https://registry.npmjs.org
       - name: Install dependencies
         run: yarn
       - name: Check code style
