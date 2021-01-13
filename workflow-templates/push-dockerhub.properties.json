@@ -1,0 +1,8 @@
+{
+  "name": "BoringCodes Push DockerHub",
+  "description": "Build & Push Image to DockerHub",
+  "iconName": "boringcodes",
+  "categories": [
+    "Docker"
+  ]
+}
