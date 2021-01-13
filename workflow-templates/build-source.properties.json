@@ -4,7 +4,9 @@
   "iconName": "boringcodes",
   "categories": [
     "JavaScript",
-    "TypeScript"
+    "TypeScript",
+    "Node",
+    "Nodejs"
   ],
   "filePatterns": [
     "package.json$"

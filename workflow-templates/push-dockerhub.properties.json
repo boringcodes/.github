@@ -3,6 +3,14 @@
   "description": "Build & Push Image to DockerHub",
   "iconName": "boringcodes",
   "categories": [
-    "Docker"
+    "JavaScript",
+    "TypeScript",
+    "Node",
+    "Docker",
+    "Dockerfile"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "Dockerfile$"
   ]
 }

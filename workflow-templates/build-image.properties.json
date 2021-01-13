@@ -3,6 +3,14 @@
   "description": "Build image using Docker",
   "iconName": "boringcodes",
   "categories": [
-    "Docker"
+    "JavaScript",
+    "TypeScript",
+    "Node",
+    "Docker",
+    "Dockerfile"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "Dockerfile$"
   ]
 }
