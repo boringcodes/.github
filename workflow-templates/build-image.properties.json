@@ -2,6 +2,6 @@
   "name": "BoringCodes Build Image",
   "description": "Build image using Docker",
   "iconName": "boringcodes",
-  "categories": ["JavaScript", "TypeScript", "Node", "Docker", "Dockerfile"],
+  "categories": ["JavaScript", "TypeScript", "Node", "Dockerfile"],
   "filePatterns": ["package.json$", "Dockerfile$"]
 }

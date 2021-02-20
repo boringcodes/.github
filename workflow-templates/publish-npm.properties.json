@@ -2,6 +2,6 @@
   "name": "BoringCodes Publish NPM",
   "description": "Publish package to NPM using Yarn scripts",
   "iconName": "boringcodes",
-  "categories": ["JavaScript", "TypeScript", "Node", "Nodejs"],
+  "categories": ["JavaScript", "TypeScript", "Node"],
   "filePatterns": ["package.json$"]
 }

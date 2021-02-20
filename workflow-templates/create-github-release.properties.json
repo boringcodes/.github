@@ -2,6 +2,6 @@
   "name": "BoringCodes Create GitHub Release",
   "description": "Create GitHub release",
   "iconName": "boringcodes",
-  "categories": ["JavaScript", "TypeScript", "Node", "Nodejs"],
+  "categories": ["JavaScript", "TypeScript", "Node"],
   "filePatterns": ["package.json$"]
 }

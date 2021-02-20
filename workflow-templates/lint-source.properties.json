@@ -2,6 +2,6 @@
   "name": "BoringCodes Lint Source",
   "description": "Check code style & quality using Yarn scripts",
   "iconName": "boringcodes",
-  "categories": ["JavaScript", "TypeScript", "Node", "Nodejs"],
+  "categories": ["JavaScript", "TypeScript", "Node"],
   "filePatterns": ["package.json$"]
 }
