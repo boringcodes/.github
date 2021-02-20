@@ -1,0 +1,7 @@
+{
+  "name": "BoringCodes Deploy CloudFlare Workers",
+  "description": "Deploy to CloudFlare Workers",
+  "iconName": "boringcodes",
+  "categories": ["JavaScript", "TypeScript", "Node", "Nodejs"],
+  "filePatterns": ["package.json$", "wrangler.toml$"]
+}
