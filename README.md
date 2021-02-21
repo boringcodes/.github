@@ -15,6 +15,28 @@
   </div>
 </div>
 
+## Features
+
+Supported features:
+
+- [x] **Workflows**
+- [ ] **Actions**
+
+Workflows grouped by steps:
+
+- Test
+  - [x] **lint-source.yml**: check code style & quality
+  - [ ] **test.yml**: run unit test
+- Build
+  - [x] **build-source.yml**: build source
+  - [x] **build-image.yml**: build Docker image
+- Push
+  - [x] **create-github-release.yml**: create GitHub Release
+  - [x] **publish-npm.yml**: publish source to NPM Registry
+  - [x] **push-dockerhub.yml**: push Docker image to DockerHub
+- Deploy
+  - [x] **deploy-cloudflare-workers.yml**: deploy source to CloudFlare Workers
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
